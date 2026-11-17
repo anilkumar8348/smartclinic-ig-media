@@ -1,0 +1,1 @@
+# smartclinic-ig-media
