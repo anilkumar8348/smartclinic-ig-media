@@ -1,0 +1,8 @@
+{
+ "date": "2026-12-01",
+ "topic": "Monthly MIS report",
+ "keyword": "MIS",
+ "hook_formula": "new month",
+ "evening_topic": "Send reports patients can understand.",
+ "music": "02-cinematic.mp3"
+}
