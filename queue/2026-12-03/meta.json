@@ -1,0 +1,8 @@
+{
+ "date": "2026-12-03",
+ "topic": "Live view of the clinic on the owner's phone",
+ "keyword": "LIVE",
+ "hook_formula": "if you X, this fixes it (hooks.json 10)",
+ "evening_topic": "Hear about a bad visit before Google does.",
+ "music": "04-indian-phonk.mp3"
+}
